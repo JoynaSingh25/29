@@ -14,4 +14,4 @@ class Stand {
       fill("deeppink");
       rect(pos.x, pos.y, this.width, this.height);
     }
-  };
+  }
